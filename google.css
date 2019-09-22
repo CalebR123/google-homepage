@@ -1,0 +1,40 @@
+#google-logo {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 125px;
+}
+
+#google-search {
+    margin-left: 350px;
+    width: 625px;
+    height: 30px;
+    font-size: 16px;
+}
+
+#sign-in {
+    background-color: blue;
+    border: 0;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-left: 1050px;
+    margin-top: 10px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+li a {
+    display: block;
+    width: 60px;
+    float: left;
+    font-size: 15px;
+}
+
